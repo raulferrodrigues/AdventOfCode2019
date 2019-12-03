@@ -9,4 +9,7 @@
 import Foundation
 
 File.write(output: "hello world", to: "output.txt")
-File.getInput(from: 1)
+guard let input = File.getInput(from: 1) else { fatalError() }
+let srf = SantasRocketFuel()
+print(srf.sumAllFuel(input: input))
+

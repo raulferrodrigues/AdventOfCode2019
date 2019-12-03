@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3A7585A02396CA9500015AB3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A75859F2396CA9500015AB3 /* main.swift */; };
-		3A7585A92396D19900015AB3 /* SantasRocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A7585A82396D19900015AB3 /* SantasRocket.swift */; };
+		3A7585A92396D19900015AB3 /* SantasRocketFuel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A7585A82396D19900015AB3 /* SantasRocketFuel.swift */; };
 		3A7585AC2396D28000015AB3 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A7585AB2396D28000015AB3 /* File.swift */; };
 		3AEB31302396F4ED005A8AC5 /* input in Resources */ = {isa = PBXBuildFile; fileRef = 3A9E01442396DCF900BD15E9 /* input */; };
 /* End PBXBuildFile section */
@@ -28,7 +28,7 @@
 /* Begin PBXFileReference section */
 		3A75859C2396CA9500015AB3 /* AdventOfCode2019 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AdventOfCode2019; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A75859F2396CA9500015AB3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		3A7585A82396D19900015AB3 /* SantasRocket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantasRocket.swift; sourceTree = "<group>"; };
+		3A7585A82396D19900015AB3 /* SantasRocketFuel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SantasRocketFuel.swift; sourceTree = "<group>"; };
 		3A7585AB2396D28000015AB3 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		3A9E01442396DCF900BD15E9 /* input */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input; sourceTree = "<group>"; };
 		3A9E01452396DD7700BD15E9 /* TextFile.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; lineEnding = 0; name = TextFile.txt; path = AdventOfCode2019/TextFile.txt; sourceTree = SOURCE_ROOT; };
@@ -84,7 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				3A9E01442396DCF900BD15E9 /* input */,
-				3A7585A82396D19900015AB3 /* SantasRocket.swift */,
+				3A7585A82396D19900015AB3 /* SantasRocketFuel.swift */,
 			);
 			path = Day1;
 			sourceTree = "<group>";
@@ -169,7 +169,7 @@
 			files = (
 				3A7585AC2396D28000015AB3 /* File.swift in Sources */,
 				3A7585A02396CA9500015AB3 /* main.swift in Sources */,
-				3A7585A92396D19900015AB3 /* SantasRocket.swift in Sources */,
+				3A7585A92396D19900015AB3 /* SantasRocketFuel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
