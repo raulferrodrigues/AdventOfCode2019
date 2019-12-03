@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  SantasRocket.swift
 //  AdventOfCode2019
 //
 //  Created by Raul Rodrigues on 12/3/19.
@@ -7,6 +7,3 @@
 //
 
 import Foundation
-
-File.write(output: "hello world", to: "output.txt")
-File.getInput(from: 1)
